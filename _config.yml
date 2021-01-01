@@ -4,9 +4,9 @@ email: future.made@offsetmovement.org
 url: https://futurema.de
 description: "Future, Made by and for all."
 keywords: "future, design, coop, software, arts, culture, sustainability"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: ""
 meta_author: Abbas Tolgay Yilmaz
-baseurl: "/future-made-website"
+
 
 
 # # Google webmaster tools
@@ -62,11 +62,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Planet
+  - line: Earth
 
 # Credits content
-credits: 'This project is a movemental one, and we call it "The Offset Movement". Manifest will be here, soon. <br><br> Meaning of <strong> "offset" </strong>:  <a href="https://www.merriam-webster.com/thesaurus/offset" target="_blank"><strong> dictionary</strong></a>'
+credits: 'This project is a movemental one, and we call it "The Offset Movement". <br><br> Manifest will be here, soon. <br><br> Meaning of <strong> "offset" </strong>:  <a href="https://www.merriam-webster.com/thesaurus/offset" target="_blank"><strong> @dictionary</strong></a>'
 
 # Build settings
 markdown: kramdown
@@ -80,4 +80,3 @@ defaults:
     values:
       permalink: ""
 
-remote_template: pmarsceill/just-the-docs

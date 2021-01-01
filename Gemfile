@@ -1,4 +1,3 @@
 source "https://rubygems.org"
 gemspec
-
-gem "just-the-docs"
+gem "github-pages", "~> 209", group: :jekyll_plugins
