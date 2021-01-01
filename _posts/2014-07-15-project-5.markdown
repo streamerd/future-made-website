@@ -1,0 +1,14 @@
+---
+layout: default
+title: Demand-(Event)-Upon-Stream
+modal-id: 5
+date: 2020-12-01
+img: demand_upon_stream_txt.png
+img_in_post: demand_event_upon_stream_sc.png
+alt: image-alt
+project-date: December 2020
+client: Start Bootstrap
+category: Web Development
+description: This collective aims to increase accessibility and sustainability of the Arts, Culture and Knowledge, hence practical and viable methods of demand exposition for their future experiences, they would like to be part of. <br><br> Audience can demand a performance upon a listen/stream or , eg. a concert. <p><strong><a href="https://www.youtube.com/watch?v=sKhhBP57Tzc" target="_blank"> Linked here</a></strong>  is a screen recording of an app, recently developed and shared with Spotify, Bandcamp, Soundcloud and Resonate.is. <br><br> Hence, this is made to demonstrate the concept and its viability and our approach was an act of encouragement, for the potential enabler platforms for such integration and interaction to further care about the artists with practical solutions. <br><br> </p>
+
+---

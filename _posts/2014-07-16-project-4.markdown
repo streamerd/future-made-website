@@ -1,0 +1,15 @@
+---
+
+layout: default
+title: Discovery of Collective Demand
+modal-id: 4
+date: 2020-12-01
+img: discovery_of_collective_demand_txt.png
+img_in_post_: discovery_of_collective_demand_design.png
+alt: discovery-of-collective-demand
+project-date: December 2020
+client: Example Design
+category: Demand-Augmentation
+description: We are not enoughly aware, whether there actually others in our neighbourhood/city as well, interested in attending a potential future concert, exhibitions etc of an artist or genre/movement.
+
+---

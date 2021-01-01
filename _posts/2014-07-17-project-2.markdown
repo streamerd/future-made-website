@@ -1,0 +1,13 @@
+---
+layout: default
+title: Universal Basic Experiences (UBE)
+modal-id: 2
+date: 2020-12-01
+img: universal_basic_experiences_txt.png
+img_in_post: experience_loading.jpg
+alt: universal_basic_experiences
+project-date: December 2020
+client: Example Design
+category: Universal Basic Experiences (UBE)
+description: Project scopes the term, Universal Basic Experience highly relating to an individual, community basically in need or desire to engage with creative & intellectual work; experiencing and freely witnessing their ideation, creation/performance and impact processes in their highest achievable and inclusive form.
+---

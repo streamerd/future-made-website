@@ -1,0 +1,13 @@
+---
+layout: default
+title: Demand on Air
+modal-id: 3
+date: 2020-12-01
+img: demand_on_air_txt.png
+img_in_post_: demand_on_air.png
+alt: demand-on-air
+project-date: December 2020
+client: Example Design
+category: Demand-Augmentation
+description: Project will introduce a concept, called “a time period ahead”, aka. "demand-on-air", to be able to spread the gathering of "organic", semi-promising demands in time (even years, for regular/on-site art events), and already started on experimenting and implementing an efficiently transparent and anonymous framework.
+---

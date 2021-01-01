@@ -1,0 +1,13 @@
+---
+layout: default
+title: Demand-Casting
+modal-id: 6
+date: 2020-12-01
+img: demand_casting_txt.png
+img_in_post: demand_casting.png
+alt: demand-casting
+project-date: December 2020
+client: Start Bootstrap
+category: Demand-Augmentation
+description: There are two contexts, that demand-casting seems to relate via definition and meaning. One is, in general, demand is free to express; and is observable by all participants to some extent in anonymity/transparency. Hence, this naming is associated with a regular broadcasting. <br><br> On the other hand, later in the project; a community-driven and managed, consented advertisement and multimedia networks will be introduced. <br><br> In that scenario, an individual, a household/friendship, a community/organisation (..) or combinations of those will be enabled to collectively create demands; where they could 
+---
