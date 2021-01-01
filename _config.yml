@@ -2,10 +2,12 @@
 title: Future, Made by All
 email: future.made@offsetmovement.org
 url: https://futurema.de
-description: "Future, Made."
+description: "Future, Made by and for all."
 keywords: "future, design, coop, software, arts, culture, sustainability"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: Abbas Tolgay Yilmaz
+baseurl: "/future-made-website"
+
 
 # # Google webmaster tools
 # google_verify:
