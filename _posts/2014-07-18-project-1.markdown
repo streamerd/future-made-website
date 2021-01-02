@@ -6,7 +6,7 @@ title: Expression of Demand
 modal-id: 1
 date: 2020-12-01
 img: expression_of_demand_txt.png
-img_in_post_: 
+img_in_post: expression_of_demand.png
 alt: expression-of-demand
 project-date: December 2020
 client: Example Design

@@ -4,7 +4,7 @@ title: Demand on Air
 modal-id: 3
 date: 2020-12-01
 img: demand_on_air_txt.png
-img_in_post_: demand_on_air.png
+img_in_post: demand_on_air.png
 alt: demand-on-air
 project-date: December 2020
 client: Example Design

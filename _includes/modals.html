@@ -18,7 +18,9 @@
                                 <p>{{ post.description }}</p>
                             {% endif %}
                          
+                            {% if post.img_in_post %}
                             <img src="img/portfolio/{{ post.img_in_post}}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% endif %}
 
                             <ul class="list-inline item-details">
                                 <!-- {% if post.client %}

@@ -5,7 +5,7 @@ title: Discovery of Collective Demand
 modal-id: 4
 date: 2020-12-01
 img: discovery_of_collective_demand_txt.png
-img_in_post_: discovery_of_collective_demand_design.png
+img_in_post: discovery_of_collective_demand.png
 alt: discovery-of-collective-demand
 project-date: December 2020
 client: Example Design

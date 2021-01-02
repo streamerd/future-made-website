@@ -67,7 +67,7 @@ address:
   - line: Earth
 
 # Credits content
-credits: 'This project is a movemental one, and we call it "The Offset Movement". <br><br> Manifest will be here, soon. <br><br> Meaning of <strong> "offset" </strong>:  <a href="https://www.merriam-webster.com/thesaurus/offset" target="_blank"><strong> @dictionary</strong></a>'
+credits: 'This project is indeed a <i>movemental one</i>, and we call it <i>"The Offset Movement"</i>. <br><br> Manifest will be here, soon. <br><br> Meaning of <strong> "offset" </strong>:  <a href="https://www.merriam-webster.com/thesaurus/offset" target="_blank"><strong> @dictionary</strong></a>'
 
 # Build settings
 markdown: kramdown
