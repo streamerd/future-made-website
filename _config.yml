@@ -47,7 +47,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Future, Made.
+  copyright: Future, Made. (2020 +)
   location: Where are we?
   social: Wanna be social
   credits: Manifest
@@ -56,8 +56,11 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/made_future
+  - title: instagram
+    url: https://www.instagram.com/the.offset.movement
   - title: github
     url: https://github.com/Future-Made
+  
   
 
 
