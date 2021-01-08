@@ -1,0 +1,2 @@
+Bootstrap hamburger menu have dissapeared after moving to a non-github based environment.
+
