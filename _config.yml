@@ -54,8 +54,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: envelope-open-text
-    url: mailto:future.made@offsetmovement.org
   - title: twitter
     url: http://twitter.com/made_future
   - title: instagram
