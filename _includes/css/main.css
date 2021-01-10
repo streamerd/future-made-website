@@ -518,7 +518,7 @@ body{margin-top:20px;
     .team-item:after {
       height: 6px;
       width: calc(100% - 30px);
-      background-color: #4e63d7;
+      background-color: #bd0d16;
       left: 0;
       bottom: 0;
       -webkit-transition: all 0.3s linear;
